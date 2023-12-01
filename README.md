@@ -1,0 +1,2 @@
+# BoostNN
+Polyvalent neural network
